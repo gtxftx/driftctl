@@ -35,7 +35,7 @@
   </a>
 </details>
 
-## Why driftctl ?
+## Why driftctl ? Or
 
 Infrastructure drift is a blind spot and a source of potential security issues.
 Drift can have multiple causes: from team members creating or updating infrastructure through the web console without backporting changes to Terraform, to unexpected actions from authenticated apps and services.
